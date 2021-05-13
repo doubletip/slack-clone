@@ -1,6 +1,6 @@
 ## slack clone
 
-# react
-# styled-component
-# flex, grid
-# material-ui
+react
+styled-component
+flex, grid
+material-ui
